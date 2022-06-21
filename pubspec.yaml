@@ -20,7 +20,7 @@ flutter:
     platforms:
       android:
         package: com.simform.bcam_waveforms
-        pluginClass: BcamWaveformsPlugin
+        pluginClass: AudioWaveformsPlugin
       ios:
-        pluginClass: BcamWaveformsPlugin
+        pluginClass: AudioWaveformsPlugin
 
