@@ -14,7 +14,7 @@ import java.io.IOException
 import java.lang.IllegalStateException
 import kotlin.math.log10
 
-private const val LOG_TAG = "AudioWaveforms"
+private const val LOG_TAG = "bcamWaveforms"
 private const val RECORD_AUDIO_REQUEST_CODE = 1001
 
 class AudioRecorder : PluginRegistry.RequestPermissionsResultListener {

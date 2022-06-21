@@ -1,5 +1,5 @@
 name: bcam_waveforms
-description: A Flutter package that allow you to generate waveform while recording audio or from audio file.
+description: A Flutter
 version: 0.1.3
 
 environment:
@@ -20,7 +20,7 @@ flutter:
     platforms:
       android:
         package: com.simform.bcam_waveforms
-        pluginClass: AudioWaveformsPlugin
+        pluginClass: BcamWaveformsPlugin
       ios:
-        pluginClass: AudioWaveformsPlugin
+        pluginClass: BcamWaveformsPlugin
 
