@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '/audio_waveforms.dart';
+import '/bcam_waveforms.dart';
 import 'painters/recorder_wave_painter.dart';
 import 'base/wave_clipper.dart';
 

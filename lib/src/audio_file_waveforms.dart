@@ -4,7 +4,7 @@ import 'package:bcam_waveforms/src/base/platform_streams.dart';
 import 'package:bcam_waveforms/src/painters/player_wave_painter.dart';
 import 'package:flutter/material.dart';
 
-import '../audio_waveforms.dart';
+import '../bcam_waveforms.dart';
 import 'base/constants.dart';
 
 class AudioFileWaveforms extends StatefulWidget {

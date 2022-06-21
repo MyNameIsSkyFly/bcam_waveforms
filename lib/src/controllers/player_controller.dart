@@ -2,12 +2,14 @@ import 'dart:async';
 import 'dart:io';
 import 'dart:typed_data';
 
-import 'package:bcam_waveforms/audio_waveforms.dart';
+import 'package:bcam_waveforms/bcam_waveforms.dart';
 import 'package:bcam_waveforms/src/base/constants.dart';
 import 'package:bcam_waveforms/src/base/platform_streams.dart';
 import 'package:bcam_waveforms/src/base/player_indentifier.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+
+import '../../bcam_waveforms.dart';
 
 part '../base/audio_waveforms_interface.dart';
 

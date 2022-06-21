@@ -1,9 +1,9 @@
 import 'dart:async';
 
 import 'package:bcam_waveforms/src/base/player_indentifier.dart';
-import 'package:bcam_waveforms/src/base/utils.dart';
 
-import '../../audio_waveforms.dart';
+import '../../bcam_waveforms.dart';
+
 
 ///This class should be used for any type of native streams.
 class PlatformStreams {
