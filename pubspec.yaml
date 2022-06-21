@@ -1,6 +1,7 @@
 name: bcam_waveforms
 description: A Flutter
-version: 0.1.3
+version: 0.0.1
+homepage: https://github.com/MyNameIsSkyFly/bcam_waveforms.git
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
