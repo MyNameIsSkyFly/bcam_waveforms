@@ -7,6 +7,7 @@ import android.os.Build
 import android.util.Log
 import androidx.annotation.NonNull
 import androidx.annotation.RequiresApi
+import com.simform.audio_waveforms.AudioPlayer
 
 import io.flutter.embedding.engine.plugins.FlutterPlugin
 import io.flutter.embedding.engine.plugins.activity.ActivityAware

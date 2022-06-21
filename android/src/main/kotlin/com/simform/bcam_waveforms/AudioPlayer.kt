@@ -6,6 +6,9 @@ import android.os.Looper
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.Player
+import com.simform.bcam_waveforms.Constants
+import com.simform.bcam_waveforms.DurationType
+import com.simform.bcam_waveforms.FinishMode
 import io.flutter.plugin.common.MethodChannel
 import java.lang.Exception
 
